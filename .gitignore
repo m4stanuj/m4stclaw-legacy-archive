@@ -13,3 +13,6 @@ __pycache__/
 # OS
 Thumbs.db
 .DS_Store
+
+# Internal changelog
+.changelog_internal.md

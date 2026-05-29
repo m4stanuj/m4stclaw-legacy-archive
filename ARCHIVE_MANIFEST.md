@@ -7,6 +7,7 @@ This repository is a historical marker for the M4STCLAW line of work. It is not 
 | File | Purpose |
 |------|---------|
 | `README.md` | Public timeline and successor-project pointers |
+| README ecosystem section | Links to the active M4ST repositories |
 | `sys_core.log` | Small synthetic legacy log excerpt used as an archive marker |
 | `LICENSE` | MIT license for the public archive text |
 

@@ -8,6 +8,8 @@
 
 This repository contains the original development history of M4STCLAW before it was restructured into the current v3+ architecture. It serves as an archaeological record of how the autonomous AI mesh evolved from a simple chatbot wrapper to a full multi-agent orchestration system.
 
+> **Archive scope:** this repo is intentionally small and read-only. It preserves timeline notes and a legacy system log, not the active M4STCLAW runtime.
+
 ---
 
 ## 📜 Timeline
@@ -21,6 +23,16 @@ This repository contains the original development history of M4STCLAW before it 
 | **2024 Q3** | Security | Added CAI-OSINT as dedicated offensive security agent |
 | **2025 Q1** | Mesh v2 | DAG topology, self-healing node recovery, API rotation pool |
 | **2025 Q2** | Antigravity | Full IDE integration via MCP bridge architecture |
+
+---
+
+## 📦 Archive Contents
+
+| File | Purpose |
+|------|---------|
+| [ARCHIVE_MANIFEST.md](ARCHIVE_MANIFEST.md) | Inventory and archive policy |
+| [sys_core.log](sys_core.log) | Legacy log excerpt retained as a historical marker |
+| [LICENSE](LICENSE) | MIT license |
 
 ---
 
@@ -50,6 +62,8 @@ Uptime record:     72 hours continuous autonomous operation
 ## ⚠️ Note
 
 This archive may contain outdated patterns, deprecated API calls, and experimental code that was superseded in the v3 rewrite. It is preserved for reference only.
+
+For a quick inventory of what is preserved here, see [ARCHIVE_MANIFEST.md](ARCHIVE_MANIFEST.md).
 
 ---
 
